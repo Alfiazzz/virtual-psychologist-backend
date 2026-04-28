@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/chat.js": {
+      "maxDuration": 60
+    }
+  },
+  "env": {
+    "OPENROUTER_API_KEY": "@openrouter-api-key",
+    "ANAM_API_KEY": "@anam-api-key",
+    "CRISIS_HELPLINE": "8-800-2000-122"
+  }
+}

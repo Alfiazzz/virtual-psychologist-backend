@@ -62,5 +62,3 @@ module.exports = async function handler(req, res) {
     });
   }
 };
-
-Add chat.js endpoint

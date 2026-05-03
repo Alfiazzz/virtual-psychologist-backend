@@ -2,7 +2,7 @@
   "name": "virtual-psychologist-backend",
   "version": "1.0.0",
   "description": "Backend for virtual psychologist with AI avatar",
-  "main": "API/chat.js",
+  "main": "api/chat.js",
   "scripts": {
     "dev": "vercel dev",
     "deploy": "vercel deploy --prod"
